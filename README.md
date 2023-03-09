@@ -1,2 +1,1 @@
-#THIS IS MY FIRST README ON A VIRTUAL BOX 
--This is soo cool
+Vagrant Readme for sure
